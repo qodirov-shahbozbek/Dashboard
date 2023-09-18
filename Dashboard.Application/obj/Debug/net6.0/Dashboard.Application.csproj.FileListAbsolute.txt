@@ -1,0 +1,15 @@
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.deps.json
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.pdb
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Domain.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Domain.pdb
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.csproj.AssemblyReference.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.AssemblyInfoInputs.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.AssemblyInfo.cs
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.csproj.CoreCompileInputs.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.csproj.CopyComplete
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\refint\Dashboard.Application.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.pdb
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Application\obj\Debug\net6.0\ref\Dashboard.Application.dll

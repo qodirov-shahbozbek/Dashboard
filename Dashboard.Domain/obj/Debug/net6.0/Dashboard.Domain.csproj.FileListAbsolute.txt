@@ -1,0 +1,12 @@
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\bin\Debug\net6.0\Dashboard.Domain.deps.json
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\bin\Debug\net6.0\Dashboard.Domain.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\bin\Debug\net6.0\Dashboard.Domain.pdb
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.csproj.AssemblyReference.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.AssemblyInfoInputs.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.AssemblyInfo.cs
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\refint\Dashboard.Domain.dll
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\Dashboard.Domain.pdb
+C:\Users\shaxb\source\dashboard\Dashboard\Dashboard.Domain\obj\Debug\net6.0\ref\Dashboard.Domain.dll
